@@ -10,23 +10,23 @@ First, make sure that the latest version of Windows 10 has been installed. Then 
 ```
 listDistro.ps1
 ```
-> [🔗](https://github.com/abesuden/Tool-Belt/WSL2-upgrade/listDistro.ps1) use to list current WSL distros and what version of WSL they are running in
+> [🔨](https://github.com/abesuden/Tool-Belt/WSL2-upgrade/listDistro.ps1) use to list current WSL distros and what version of WSL they are running in
 
 
 ```
 setDistro.ps1
 ```
-> [🔗](https://github.com/abesuden/Tool-Belt/WSL2-upgrade/setDistro.ps1) set the desired distro to either 1 for WSL or 2 for WSL2
+> [🔨](https://github.com/abesuden/Tool-Belt/WSL2-upgrade/setDistro.ps1) set the desired distro to either 1 for WSL or 2 for WSL2
 
 ```
 setDefault.ps1
 ```
-> [🔗](https://github.com/abesuden/Tool-Belt/WSL2-upgrade/setDefault.ps1) sets the default version of WSL to use when installing new distros
+> [🔨](https://github.com/abesuden/Tool-Belt/WSL2-upgrade/setDefault.ps1) sets the default version of WSL to use when installing new distros
 
 ```
 runDistro.ps1
 ```
-> [🔗](https://github.com/abesuden/Tool-Belt/WSL2-upgrade/runDistro.ps1) a quick way to launch a WSL distro in PowerShell
+> [🔨](https://github.com/abesuden/Tool-Belt/WSL2-upgrade/runDistro.ps1) a quick way to launch a WSL distro in PowerShell
 
 
 ### System Requirements
