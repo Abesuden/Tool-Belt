@@ -1,6 +1,6 @@
-# Code Assassin
+# My Coding Tool Belt
 
-[![Tools](https://img.shields.io/badge/Contributors-0-informational.svg)](https://github.com/abesuden/Tool-Belt)
+[![Tools](https://img.shields.io/badge/Tools-0-informational.svg)](https://github.com/abesuden/Tool-Belt)
 [![Maintenance](https://img.shields.io/badge/Maintained-yes-brightgreen.svg)](https://github.com/abesuden/Tool-Belt/graphs/commit-activity)
 [![Issues](https://img.shields.io/badge/Issues-0-1abc9c.svg)](https://github.com/abesuden/Tool-Belt/issues)
 
