@@ -15,7 +15,7 @@ You will either need to use the below command in the run dialog box (Win + R key
 ```
 Slide To Shut Down
 ```
-> [🔨](https://github.com/abesuden/Tool-Belt/Graphical-Shutdown/) use to shutdown your computer with the login slider panel.
+> [🔨](https://github.com/Abesuden/Tool-Belt/blob/master/Graphical-Shutdown/Slide%20To%20Shut%20Down.lnk) use to shutdown your computer with the login slider panel.
 
 
 ### System Requirements
