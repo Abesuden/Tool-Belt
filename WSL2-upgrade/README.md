@@ -36,7 +36,7 @@ Operating System requirments:
 ```
 Windows 10, Version 2004
 ```
-> You will need to make sure you are on the latest version of Windows 10 in order to apply these tools.
+> You will need to make sure you are on the latest version of Windows 10 in order to apply these tools. Update [here](ms-settings:windowsupdate)
 
 ## Creator Of Tools
 
