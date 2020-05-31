@@ -5,7 +5,7 @@
 
 ## Getting Started
 
-You will either need to use the below command in the run dialog box (Win + R keys) or you can get the shortcut I made =:
+You will either need to use the below command in the run dialog box (Win + R keys) or you can get the shortcut I made:
 
 ```
 %windir%\System32\SlideToShutDown.exe
@@ -13,7 +13,7 @@ You will either need to use the below command in the run dialog box (Win + R key
 > use in the run dialog box
 
 ```
-Slide To Shut Down
+Slide To Shut Down Shortcut
 ```
 > [🔨](https://github.com/Abesuden/Tool-Belt/blob/master/Graphical-Shutdown/Slide%20To%20Shut%20Down.lnk) use to shutdown your computer with the login slider panel.
 
